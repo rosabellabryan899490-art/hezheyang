@@ -1,0 +1,14 @@
+{
+  "name": "打卡计划",
+  "short_name": "打卡计划",
+  "description": "把学习计划表变成每天的打卡任务，没完成自动累计到明天。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7FCF9",
+  "theme_color": "#22C55E",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
