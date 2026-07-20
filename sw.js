@@ -1,5 +1,5 @@
 /* Service Worker：缓存优先，离线可用 */
-var CACHE = 'daka-v2';
+var CACHE = 'daka-v3';
 var ASSETS = [
   './',
   './index.html',
